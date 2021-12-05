@@ -1,4 +1,4 @@
-baseURL = "https://parth-vader.github.io"
+baseURL = "https://parth-vader.github.io/"
 title = "Parth Verma"
 theme = "hugo-coder"
 languageCode = "en"
