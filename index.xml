@@ -160,7 +160,7 @@ Cheers!</description>
       
       <guid>https://parth-vader.github.io/contact/</guid>
       <description>You can reach me via
- My email : vermaparth97@gmail.com LinkedIn https://www.linkedin.com/in/vermaparth97/.  Thanks!</description>
+ My email: vermaparth97@gmail.com LinkedIn: https://www.linkedin.com/in/vermaparth97/.  Thanks!</description>
     </item>
     
     <item>
@@ -169,8 +169,8 @@ Cheers!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parth-vader.github.io/now/</guid>
-      <description>Hi
-This page will be updated weekly with what is going on in my life.</description>
+      <description>Updates about what I&amp;rsquo;m up to lately.
+ 1.Derek Siver’s movement for creating a “now” page ↩</description>
     </item>
     
     <item>
@@ -180,15 +180,6 @@ This page will be updated weekly with what is going on in my life.</description>
       
       <guid>https://parth-vader.github.io/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://parth-vader.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://parth-vader.github.io/resume/</guid>
-      <description>#the-canvas {border: 1px solid black;direction: ltr;width: 100%;height: auto;display: none;}#paginator {display: none;text-align: center;margin-bottom: 10px;}#loadingWrapper {display: none;justify-content: center;align-items: center;width: 100%;height: 350px;}#loading {display: inline-block;width: 50px;height: 50px;border: 3px solid #d2d0d0;;border-radius: 50%;border-top-color: #383838;animation: spin 1s ease-in-out infinite;-webkit-animation: spin 1s ease-in-out infinite;}@keyframes spin {to { -webkit-transform: rotate(360deg); }}@-webkit-keyframes spin {to { -webkit-transform: rotate(360deg); }}PreviousNext&amp;nbsp; &amp;nbsp;Page:  / window.</description>
     </item>
     
   </channel>
